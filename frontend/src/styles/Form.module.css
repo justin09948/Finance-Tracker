@@ -1,0 +1,30 @@
+.body{
+    font-family: "Montserrat", serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.input{
+    width: 20rem;
+    height: 2.25rem;
+    border-radius: 20px;
+    border: 1px solid black;
+    text-indent: 10px;
+}
+.button{
+    width: 20rem;
+    height: 2.5rem;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin: 2rem;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,62 @@
+.body{
+    display: flex;
+    width: 40vw;
+    background-color: rgb(241, 241, 241);
+    border: none;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 1rem;
+}
+.h1{
+    margin: 1rem;
+}
+.amount_container{
+    display: flex;
+}
+.delete_button{
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.delete_button span{
+    color: red;
+}
+
+.food_container{
+    background-color: #F8D573;
+    padding: 0.5rem;
+    border-radius: 7px;
+}
+
+.entertainment_container{
+    background-color: #A2DFF7;
+    padding: 0.5rem;
+    border-radius: 7px;
+}
+
+.transportation_container{
+    background-color: #A8E6CF;
+    padding: 0.5rem;
+    border-radius: 7px;
+}
+
+.health_container{
+    background-color: #F8B7D3;
+    padding: 0.5rem;
+    border-radius: 7px;
+}
+
+.other_container{
+    background-color: #acacac;
+    padding: 0.5rem;
+    border-radius: 7px;
+}
+
+.nameDisplay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
