@@ -1,6 +1,5 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<script src="https://code.iconify.design/2/2.0.0-alpha3/iconify.min.js"></script>
 
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
